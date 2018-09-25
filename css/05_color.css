@@ -38,11 +38,11 @@ body {
 }
 
 .box-1 {
-  background-color: gray;
+  background-color: hsl(120, 67%, 20%);
   top: 55%;
   left: 55%;
 }
 
 .box-2 {
-  background-color: darkgray;
+  background-color: hsl(120, 87%, 20% );
 }

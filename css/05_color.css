@@ -18,7 +18,7 @@ body {
   font-size: 0;
   height: 100%;
   width: 100%;
-  background: url(.../image/manatee.jpg);
+  background: url(../image/manatee.jpg);
 }
 
 .center {

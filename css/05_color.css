@@ -38,7 +38,10 @@ body {
 }
 
 .box-1 {
-  background-color: hsl(240, 70%, 50%);
+  background: #7B11A9;
+background: -webkit-radial-gradient(bottom left, #7B11A9, #EE8DD8);
+background: -moz-radial-gradient(bottom left, #7B11A9, #EE8DD8);
+background: radial-gradient(bottom left, #7B11A9, #EE8DD8););
   top: 55%;
   left: 55%;
 }

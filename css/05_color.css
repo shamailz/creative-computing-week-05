@@ -44,5 +44,5 @@ body {
 }
 
 .box-2 {
-  background-color: hsl(220, 70%, 50% );
+  background-color: hsla(220, 70%, 50%, 0.5 );
 }
